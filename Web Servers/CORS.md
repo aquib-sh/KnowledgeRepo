@@ -1,4 +1,4 @@
-
+[Golang]
 
 The CORS issue can be solve by returning a heading in response from the server
 
@@ -12,4 +12,4 @@ The CORS issue can be solve by returning a heading in response from the server
 ```
 
 
-		The above code set's the allow origin header to the host and port from where the request should be accepted, The above is enough to solve the CORS issue without any external libraries.
+The above code set's the allow origin header to the host and port from where the request should be accepted, The above is enough to solve the CORS issue without any external libraries.
